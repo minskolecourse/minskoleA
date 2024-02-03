@@ -3,5 +3,7 @@ git add .
 git status
 git commit -m "added"
 git push
+git diff
+//---------------------------------->
 
 
