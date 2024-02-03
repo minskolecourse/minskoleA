@@ -4,6 +4,10 @@ git status
 git commit -m "added"
 git push
 git diff
-//---------------------------------->
+
+git log 
+git show HEAD
+
+
 
 
